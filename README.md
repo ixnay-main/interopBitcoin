@@ -1,4 +1,4 @@
-Check homepage (#home) for more info on forked repos for this.
+Check homepage (#home) for more info on repos that made up this.
 
 User system may be buggy.
 if problematic use alias = ant , pass  = 123
